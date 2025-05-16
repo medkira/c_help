@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c"
+  }
+}
